@@ -1,5 +1,7 @@
 <div align="center">
 
+<!-- 🔽 নিজের ব্যানার ছবি বসাতে চাইলে নিচের src="..." এর ভেতরের লিংকটা বদলে দিন
+     (GitHub README editor-এ ছবি drag & drop করলে যে লিংক পাবেন, সেটা এখানে বসান) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=200&section=header&text=Omarfaruk%20Nahid&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
@@ -16,6 +18,9 @@
   </a>
   <a href="https://github.com/WebdeveloperNahid" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="PASTE_YOUR_FACEBOOK_PROFILE_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
@@ -38,7 +43,7 @@ I'm a Frontend Web Developer who loves turning ideas into clean, responsive, and
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 
 **Backend**
 
