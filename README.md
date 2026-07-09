@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/github/stars/WebdeveloperNahid?label=GitHub%20Stars&style=flat&color=2563EB" />
 </p>
 
-<p align="center">📍 <b>Location:</b> Dhaka, Bangladesh</p>
+<p align="center">📍 <b>Location:</b> Rajshahi, Bangladesh</p>
 
 ---
 
