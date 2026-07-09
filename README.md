@@ -2,12 +2,12 @@
 
 <!-- 🔽 নিজের ব্যানার ছবি বসাতে চাইলে নিচের src="..." এর ভেতরের লিংকটা বদলে দিন
      (GitHub README editor-এ ছবি drag & drop করলে যে লিংক পাবেন, সেটা এখানে বসান) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=200&section=header&text=Omarfaruk%20Nahid&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=200&section=header&text=Omarfaruk%20Nahid&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
 <h3 align="center">👋 Hi, I'm Omarfaruk Nahid</h3>
-<p align="center"><b>Frontend Web Developer</b> | MERN Stack Enthusiast</p>
+<p align="center"><b>Full Stack Developer</b> | MERN Stack & Next.js</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omarfaruk-nahid" target="_blank">
@@ -26,9 +26,18 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WebdeveloperNahid&label=Profile%20Views&color=2563EB&style=flat" />
+  <img src="https://img.shields.io/github/stars/WebdeveloperNahid?label=GitHub%20Stars&style=flat&color=2563EB" />
+</p>
+
+<p align="center">📍 <b>Location:</b> Dhaka, Bangladesh</p>
+
+---
+
 ### 🧑‍💻 About Me
 
-I'm a Frontend Web Developer who loves turning ideas into clean, responsive, and user-friendly web interfaces. I mainly work with the **MERN stack** and enjoy building projects that combine solid functionality with a great user experience. I'm always exploring new tools and frameworks to write better, more efficient code.
+I'm a Full Stack Developer who loves turning ideas into clean, responsive, and fully functional web applications. I work across the entire **MERN stack** (MongoDB, Express.js, React.js, Node.js) along with **Next.js**, handling everything from UI design to backend logic and database management. I'm always exploring new tools and frameworks to write better, more efficient code.
 
 ### 🔭 Currently
 
@@ -43,7 +52,7 @@ I'm a Frontend Web Developer who loves turning ideas into clean, responsive, and
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 
 **Backend**
 
