@@ -2,7 +2,7 @@
 
 <!-- 🔽 নিজের ব্যানার ছবি বসাতে চাইলে নিচের src="..." এর ভেতরের লিংকটা বদলে দিন
      (GitHub README editor-এ ছবি drag & drop করলে যে লিংক পাবেন, সেটা এখানে বসান) -->
-<img src="[https://capsule-render.vercel.app/api?](https://ibb.co.com/LzXX9jHf) width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=200&section=header&text=Omarfaruk%20Nahid&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
