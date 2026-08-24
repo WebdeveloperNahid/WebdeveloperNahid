@@ -1,25 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFD1DC,100:C1EFFF&height=160&text=Hi%20I'm%20Omar%20Faruk%20Nahid&fontSize=32&fontColor=333333&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%26%20Next.js&descAlignY=65&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C3E50,100:4CA1AF&height=170&text=Omar%20Faruk%20Nahid&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=MERN%20Stack%20%26%20Next.js%20Developer&descAlignY=68&descSize=17" width="100%"/>
 
 <br/>
 
-## Hi There! I'm Omar Faruk Nahid 👋
+## Hi, I'm Omar Faruk Nahid 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=E75480&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;MERN+Stack+%26+Next.js+Developer;Building+Clean+%26+Scalable+Web+Apps" alt="Typing SVG" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=WebdeveloperNahid&label=Profile+Views&color=E75480&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/WebdeveloperNahid?label=Followers&style=for-the-badge&color=C1EFFF&logo=github" />
+**MERN Stack & Next.js Developer**
 
 </div>
 
 <br/>
 
-### 👩‍💻 About Me
+### 📝 About Me
 
-I'm a passionate **Full Stack Developer** who loves turning ideas into clean, responsive, and fully functional web applications. I work across the entire **MERN stack** (MongoDB, Express.js, React.js, Node.js) along with **Next.js**, handling everything from UI design to backend logic and database management. Currently studying **Economics (Honours)** while building real-world projects and sharpening my engineering skills. I love learning and experimenting with new tools and frameworks! 🚀
+I'm a passionate **MERN Stack & Next.js Developer** dedicated to building responsive and secure full-stack web applications. I enjoy turning ideas into clean, efficient, and user-friendly solutions using **React.js, Next.js, Node.js, Express.js, MongoDB, JavaScript and TypeScript**. I'm constantly learning new technologies to sharpen my skills and stay up to date with modern web development practices. Currently studying **Economics (Honours)** while building real-world projects and improving my technical and problem-solving skills.
 
 <br/>
 
@@ -27,33 +22,57 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into clean, re
 
 - 🔍 Exploring **Next.js** for building fast, SEO-friendly web apps
 - 🏗️ Building full-stack projects with the **MERN stack**
-- 🔐 Implementing secure auth flows with **JWT**, **Better Auth** & **Google OAuth**
+- 🔐 Implementing secure authentication with **JWT**, **Better Auth** & **Google OAuth**
 - 🎨 Designing UIs with **Tailwind CSS**, **HeroUI** & **Framer Motion**
 - 🤖 Integrating AI features using the **Gemini API**
 
 <br/>
 
-### 🛠️ Skills
+### 🌐 Socials
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,git,figma,vscode&perline=7" />
-</p>
-
-<br/>
-
-### 🔗 Social Links
-
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/omarfaruk-nahid" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:omarfaruk.nahid.webdeveloper@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/WebdeveloperNahid" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="PASTE_YOUR_FACEBOOK_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="PASTE_YOUR_PORTFOLIO_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="PASTE_YOUR_FACEBOOK_LINK" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="PASTE_YOUR_PORTFOLIO_LINK" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <br/>
 
-### 📈 GitHub Stats & Activity
+### 💻 Skills
+
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/HeroUI-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+
+**Tools & Design**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+
+<br/>
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=WebdeveloperNahid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
@@ -63,12 +82,6 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into clean, re
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WebdeveloperNahid&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
-
-<br/>
-
-### 🌐 Languages
-
-🇧🇩 Bangla (Native) &nbsp;|&nbsp; 🇬🇧 English (Intermediate) &nbsp;|&nbsp; 🇮🇳 Hindi (Conversational)
 
 <br/>
 
@@ -121,7 +134,13 @@ AI-powered learning platform
 </tr>
 </table>
 
-> 💡 Replace the `#` links above with your actual Live Demo / Client Repo / Server Repo URLs.
+> 💡 Replace the `#` links above with your actual Live Demo / Client Repo / Server Repo URLs, and paste your Facebook/Portfolio links in the Socials section.
+
+<br/>
+
+### 🗣️ Languages
+
+🇧🇩 Bangla (Native) &nbsp;|&nbsp; 🇬🇧 English (Intermediate) &nbsp;|&nbsp; 🇮🇳 Hindi (Conversational)
 
 <br/>
 
