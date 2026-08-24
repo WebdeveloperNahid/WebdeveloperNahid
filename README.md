@@ -83,7 +83,7 @@ I'm a passionate **MERN Stack & Next.js Developer** dedicated to building respon
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WebdeveloperNahid&theme=github_dark&hide_border=false&border_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WebdeveloperNahid&show_icons=true&theme=tokyonight&hide_border=false&border_color=FFFFFF" />
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@ I'm a passionate **MERN Stack & Next.js Developer** dedicated to building respon
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WebdeveloperNahid&theme=github_dark&hide_border=false&border_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebdeveloperNahid&layout=compact&theme=tokyonight&hide_border=false&border_color=FFFFFF" />
 </p>
 
 <br/>
