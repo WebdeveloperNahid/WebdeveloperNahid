@@ -90,58 +90,7 @@ I'm always open to discussing new projects, opportunities, or collaborations. Fe
 
 <br/>
 
-### 🎯 Featured Projects
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**⚖️ LegalEase**
-Full-stack lawyer hiring platform
-
-`Next.js` `Express` `MongoDB` `Stripe`
-
-- Role-based dashboards (Client/Lawyer/Admin)
-- JWT + Better Auth + Google OAuth
-- Stripe payment integration
-
-[Live Demo](#) · [Client Repo](#) · [Server Repo](#)
-
-</td>
-<td width="33%" valign="top">
-
-**🧳 TripNest**
-Full-stack tour booking platform
-
-`Next.js` `TypeScript` `MongoDB`
-
-- Browse, search, filter & book tours
-- Admin dashboard for bookings
-- Fully responsive REST API driven UI
-
-[Live Demo](#) · [Client Repo](#) · [Server Repo](#)
-
-</td>
-<td width="33%" valign="top">
-
-**🎓 LearnPath**
-AI-powered learning platform
-
-`Next.js` `TypeScript` `Gemini API`
-
-- Course enrollment with instructor approval
-- AI-generated course descriptions
-- Role-based access with Better Auth
-
-[Live Demo](#) · [Client Repo](#) · [Server Repo](#)
-
-</td>
-</tr>
-</table>
-
-> 💡 Replace the `#` links above with your actual Live Demo / Client Repo / Server Repo URLs, and paste your Facebook/Portfolio links in the Socials section.
-
-<br/>
 
 ### 🗣️ Languages
 
