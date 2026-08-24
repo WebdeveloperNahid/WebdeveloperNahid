@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=250&section=header&text=Omar%20Faruk%20Nahid&fontSize=38&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=MERN%20Stack%20%26%20Next.js%20WebDeveloper%20%7C%7C%20FullStack%20Developer&descAlignY=55&descSize=17" width="100%"/>
 
+# Hi, I'm Omar Faruk Nahid 👋
+
+### MERN Stack & Next.js WebDeveloper || FullStack Developer
+
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=4CA1AF&center=true&vCenter=true&width=600&lines=Building+Clean+%26+Scalable+Web+Apps;Turning+Ideas+Into+Real+Products;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 </div>
