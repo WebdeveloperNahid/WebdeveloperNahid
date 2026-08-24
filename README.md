@@ -1,8 +1,8 @@
 <div align="center">
 
-# Omar Faruk Nahid
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=250&section=header&text=Hi,%20I'm%20Omar%20Faruk%20Nahid&fontSize=38&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=MERN%20Stack%20%26%20Next.js%20Developer%20%7C%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=4CA1AF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Omar+Faruk+Nahid+%F0%9F%91%8B;MERN+Stack+%26+Next.js+Developer;Full+Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=4CA1AF&center=true&vCenter=true&width=600&lines=Building+Clean+%26+Scalable+Web+Apps;Turning+Ideas+Into+Real+Products;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 </div>
 
@@ -76,8 +76,81 @@ I'm a passionate **MERN Stack & Next.js Developer** dedicated to building respon
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WebdeveloperNahid&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=WebdeveloperNahid&theme=dark&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WebdeveloperNahid&theme=github_dark" />
+</p>
+
+<br/>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WebdeveloperNahid/WebdeveloperNahid/output/github-contribution-grid-snake.svg" />
+</p>
+
+> 🛠️ **Setup needed:** this animated snake isn't automatic — add the free [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo once, and it will generate/update this SVG on its own every day. If you want, I can write the exact `.github/workflows/snake.yml` file for you to drop into your repo.
+
+<br/>
+
+### 📫 Let's Connect
+
+I'm always open to discussing new projects, opportunities, or collaborations. Feel free to reach out through any of the socials above — I usually reply fast! 🚀
+
+<br/>
+
+### 🎯 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**⚖️ LegalEase**
+Full-stack lawyer hiring platform
+
+`Next.js` `Express` `MongoDB` `Stripe`
+
+- Role-based dashboards (Client/Lawyer/Admin)
+- JWT + Better Auth + Google OAuth
+- Stripe payment integration
+
+[Live Demo](#) · [Client Repo](#) · [Server Repo](#)
+
+</td>
+<td width="33%" valign="top">
+
+**🧳 TripNest**
+Full-stack tour booking platform
+
+`Next.js` `TypeScript` `MongoDB`
+
+- Browse, search, filter & book tours
+- Admin dashboard for bookings
+- Fully responsive REST API driven UI
+
+[Live Demo](#) · [Client Repo](#) · [Server Repo](#)
+
+</td>
+<td width="33%" valign="top">
+
+**🎓 LearnPath**
+AI-powered learning platform
+
+`Next.js` `TypeScript` `Gemini API`
+
+- Course enrollment with instructor approval
+- AI-generated course descriptions
+- Role-based access with Better Auth
+
+[Live Demo](#) · [Client Repo](#) · [Server Repo](#)
+
+</td>
+</tr>
+</table>
+
+> 💡 Replace the `#` links above with your actual Live Demo / Client Repo / Server Repo URLs, and paste your Facebook/Portfolio links in the Socials section.
 
 <br/>
 
