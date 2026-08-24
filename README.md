@@ -2,19 +2,25 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:005C97,100:363795&customColorList=1&height=250&section=header&text=Omar%20Faruk%20Nahid&fontSize=38&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=MERN%20Stack%20%26%20Next.js%20WebDeveloper%20%7C%7C%20FullStack%20Developer&descAlignY=55&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=4CA1AF&center=true&vCenter=true&width=600&lines=Building+Clean+%26+Scalable+Web+Apps;Turning+Ideas+Into+Real+Products;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+# Hi, I'm Omar Faruk Nahid 👋
+
+### MERN Stack & Next.js WebDeveloper || FullStack Developer
 
 </div>
 
 <br/>
 
-### 📝 About Me
+---
+
+### 💡 About Me:
 
 I'm a passionate **MERN Stack & Next.js Developer** dedicated to building responsive and secure full-stack web applications. I enjoy turning ideas into clean, efficient, and user-friendly solutions using **React.js, Next.js, Node.js, Express.js, MongoDB, JavaScript and TypeScript**. I'm constantly learning new technologies to sharpen my skills and stay up to date with modern web development practices. Currently studying **Economics (Honours)** while building real-world projects and improving my technical and problem-solving skills.
 
 <br/>
 
-### 🚀 Current Activities
+---
+
+### 🚀 Current Activities:
 
 - 🔍 Exploring **Next.js** for building fast, SEO-friendly web apps
 - 🏗️ Building full-stack projects with the **MERN stack**
@@ -24,7 +30,9 @@ I'm a passionate **MERN Stack & Next.js Developer** dedicated to building respon
 
 <br/>
 
-### 🌐 Socials
+---
+
+### 🌐 Socials:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/omarfaruk-nahid" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -36,7 +44,9 @@ I'm a passionate **MERN Stack & Next.js Developer** dedicated to building respon
 
 <br/>
 
-### 💻 Skills
+---
+
+### 💻 Skills:
 
 **Frontend**
 <br/>
@@ -68,7 +78,9 @@ I'm a passionate **MERN Stack & Next.js Developer** dedicated to building respon
 
 <br/>
 
-### 📊 GitHub Stats
+---
+
+### 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WebdeveloperNahid&theme=github_dark&hide_border=false&border_color=FFFFFF" />
@@ -84,13 +96,17 @@ I'm a passionate **MERN Stack & Next.js Developer** dedicated to building respon
 
 <br/>
 
-### 📫 Let's Connect
+---
+
+### 📫 Let's Connect:
 
 I'm always open to discussing new projects, opportunities, or collaborations. Feel free to reach out through any of the socials above — I usually reply fast! 🚀
 
 <br/>
 
-### 🗣️ Languages
+---
+
+### 🗣️ Languages:
 
 🇧🇩 Bangla (Native) &nbsp;|&nbsp; 🇬🇧 English (Intermediate) &nbsp;|&nbsp; 🇮🇳 Hindi (Conversational)
 
