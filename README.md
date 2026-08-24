@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:005C97,100:363795&customColorList=1&height=250&section=header&text=Omar%20Faruk%20Nahid&fontSize=38&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=MERN%20Stack%20and%20Next.js%20WebDeveloper%20%7C%7C%20FullStack%20Developer&descAlignY=55&descSize=17" alt="Banner" width="100%"/>
-# Hi, I'm Omar Faruk Nahid 👋
+<h1># Hi, I'm Omar Faruk Nahid 👋</h1>
 
 ### MERN Stack & Next.js WebDeveloper || FullStack Developer
 </div>
