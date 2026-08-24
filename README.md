@@ -75,7 +75,7 @@ I'm a passionate **MERN Stack & Next.js Developer** dedicated to building respon
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=WebdeveloperNahid&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=WebdeveloperNahid&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">
