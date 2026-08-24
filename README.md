@@ -71,8 +71,7 @@ I'm a passionate **MERN Stack & Next.js Developer** dedicated to building respon
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WebdeveloperNahid&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebdeveloperNahid&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WebdeveloperNahid&theme=github_dark" />
 </p>
 
 <p align="center">
@@ -82,16 +81,6 @@ I'm a passionate **MERN Stack & Next.js Developer** dedicated to building respon
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WebdeveloperNahid&theme=github_dark" />
 </p>
-
-<br/>
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/WebdeveloperNahid/WebdeveloperNahid/output/github-contribution-grid-snake.svg" />
-</p>
-
-> 🛠️ **Setup needed:** this animated snake isn't automatic — add the free [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo once, and it will generate/update this SVG on its own every day. If you want, I can write the exact `.github/workflows/snake.yml` file for you to drop into your repo.
 
 <br/>
 
