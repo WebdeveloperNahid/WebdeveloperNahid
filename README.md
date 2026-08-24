@@ -1,33 +1,24 @@
 <div align="center">
 
-<h1>Hi, I'm Omarfaruk Nahid 👋</h1>
-<h3>MERN Stack & Next.js Developer &nbsp;||&nbsp; Full Stack Developer</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C3E50,100:4CA1AF&height=170&text=Omar%20Faruk%20Nahid&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=MERN%20Stack%20%26%20Next.js%20%7C%7C%20Full%20Stack%20Developer&descAlignY=68&descSize=16" width="100%"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/omarfaruk-nahid" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:omarfaruk.nahid.webdeveloper@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/WebdeveloperNahid" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="PASTE_YOUR_FACEBOOK_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="PASTE_YOUR_PORTFOLIO_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+## Hi, I'm Omarfaruk Nahid 👋
 
-<br/><br/>
+**MERN Stack & Next.js Developer**
 
-<img src="https://komarev.com/ghpvc/?username=WebdeveloperNahid&label=Profile+Views&color=brightgreen&style=for-the-badge" />
-<img src="https://img.shields.io/badge/📍_Location-Rajshahi%2C_Bangladesh-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🎓_Studying-Economics_(Honours)-blue?style=for-the-badge" />
+<br/>
 
 </div>
 
-<br/>
+### 📝 About Me
 
-### 🧑‍💻 About Me
-
-I'm a **Full Stack Developer** passionate about turning ideas into clean, responsive, fully-functional web applications. I work across the entire **MERN stack** (MongoDB, Express.js, React.js, Node.js) along with **Next.js** — from UI design to backend logic, authentication, and database management. Currently studying **Economics (Honours)** while building real-world projects and sharpening my engineering skills.
+I'm a passionate **Full Stack Developer** dedicated to building clean, high-performance web applications. I enjoy turning complex problems into simple, efficient, and user-friendly solutions. I'm constantly learning new technologies to sharpen my skills and stay up to date with modern development practices. Currently studying **Economics (Honours)** while building real-world projects and sharpening my engineering skills.
 
 <br/>
 
-### 🔭 Currently
+### 🚀 Current Activities
 
 - 🔍 Exploring **Next.js** for building fast, SEO-friendly web apps
 - 🏗️ Building full-stack projects with the **MERN stack**
@@ -37,7 +28,17 @@ I'm a **Full Stack Developer** passionate about turning ideas into clean, respon
 
 <br/>
 
-### 🛠️ Tech Stack
+### 🌐 Socials
+
+<a href="https://www.linkedin.com/in/omarfaruk-nahid" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:omarfaruk.nahid.webdeveloper@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/WebdeveloperNahid" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="PASTE_YOUR_FACEBOOK_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="PASTE_YOUR_PORTFOLIO_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+<br/>
+
+### 💻 Skills
 
 **Frontend**
 <br/>
@@ -50,7 +51,7 @@ I'm a **Full Stack Developer** passionate about turning ideas into clean, respon
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 
-**Backend & Database**
+**Backend**
 <br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -68,17 +69,6 @@ I'm a **Full Stack Developer** passionate about turning ideas into clean, respon
 
 <br/>
 
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🔥_Pull_Shark-2C5364?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⭐_YOLO-2C5364?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀_Quickdraw-2C5364?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌱_Open_Source-2C5364?style=for-the-badge" />
-</p>
-
-<br/>
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -92,15 +82,13 @@ I'm a **Full Stack Developer** passionate about turning ideas into clean, respon
 
 <br/>
 
-### 🌐 Languages
+### 🗣️ Languages
 
-<p align="center">
 🇧🇩 Bangla (Native) &nbsp;|&nbsp; 🇬🇧 English (Intermediate) &nbsp;|&nbsp; 🇮🇳 Hindi (Conversational)
-</p>
 
 <br/>
 
-### 🚀 Featured Projects
+### 🎯 Featured Projects
 
 <table>
 <tr>
