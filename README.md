@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C3E50,100:4CA1AF&height=170&text=Omar%20Faruk%20Nahid&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=MERN%20Stack%20%26%20Next.js%20Developer&descAlignY=68&descSize=17" width="100%"/>
+# Omar Faruk Nahid
 
-<br/>
-
-## Hi, I'm Omar Faruk Nahid 👋
-
-**MERN Stack & Next.js Developer**
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=4CA1AF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Omar+Faruk+Nahid+%F0%9F%91%8B;MERN+Stack+%26+Next.js+Developer;Full+Stack+Developer" alt="Typing SVG" />
 
 </div>
 
