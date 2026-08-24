@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b6623,100:00ffcc&customColorList=1&height=250&section=header&text=Omar%20Faruk%20Nahid&fontSize=38&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=MERN%20Stack%20and%20Next.js%20WebDeveloper%20%7C%7C%20FullStack%20Developer&descAlignY=55&descSize=17" alt="Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1c29,50:0e1628,100:2b1055&customColorList=1&height=250&section=header&text=Omar%20Faruk%20Nahid&fontSize=38&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=MERN%20Stack%20and%20Next.js%20WebDeveloper%20%7C%7C%20FullStack%20Developer&descAlignY=55&descSize=17" alt="Banner" width="100%"/>
 <h1># Hi, I'm Omar Faruk Nahid 👋</h1>
 
 ### MERN Stack & Next.js WebDeveloper || FullStack Developer
