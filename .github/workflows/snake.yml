@@ -21,8 +21,41 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#e8a200&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            dist/github-snake-dark.svg?color_snake=#ffcf56&color_dots=#0f2a23,#0e5a40,#12805a,#19b87a,#2ee59a
+
+      - name: Add card, title and legend to the snake
+        run: |
+          python3 - <<'PY'
+          THEMES = {
+              "dist/github-snake-dark.svg": dict(
+                  bg1="#04130f", bg2="#073a2c", stroke="#12805a", title="#2ee59a", text="#8fd9bb",
+                  dots=["#0f2a23", "#0e5a40", "#12805a", "#19b87a", "#2ee59a"]),
+              "dist/github-snake.svg": dict(
+                  bg1="#ffffff", bg2="#eafaf1", stroke="#9be9a8", title="#216e39", text="#4b7a5c",
+                  dots=["#ebedf0", "#9be9a8", "#40c463", "#30a14e", "#216e39"]),
+          }
+          for path, t in THEMES.items():
+              svg = open(path, encoding="utf-8").read()
+              if "snake-card" in svg:
+                  continue
+              legend = "".join(
+                  f'<rect x="{744 + i * 14}" y="-19" width="10" height="10" rx="2" fill="{c}"/>'
+                  for i, c in enumerate(t["dots"]))
+              card = (
+                  f'<defs><linearGradient id="snake-card" x1="0" y1="0" x2="1" y2="1">'
+                  f'<stop offset="0" stop-color="{t["bg1"]}"/><stop offset="1" stop-color="{t["bg2"]}"/>'
+                  f'</linearGradient></defs>'
+                  f'<rect x="-15" y="-31" width="878" height="190" rx="16" fill="url(#snake-card)" '
+                  f'stroke="{t["stroke"]}" stroke-width="1.5"/>'
+                  f'<text x="2" y="-10" font-family="Consolas,Menlo,monospace" font-size="12" '
+                  f'font-weight="700" letter-spacing="2.5" fill="{t["title"]}">CONTRIBUTION SNAKE</text>'
+                  f'<text x="738" y="-10" text-anchor="end" font-family="Arial,sans-serif" font-size="11" '
+                  f'fill="{t["text"]}">Less</text>{legend}'
+                  f'<text x="822" y="-10" font-family="Arial,sans-serif" font-size="11" fill="{t["text"]}">More</text>')
+              svg = svg.replace("</desc>", "</desc>" + card, 1)
+              open(path, "w", encoding="utf-8").write(svg)
+          PY
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
