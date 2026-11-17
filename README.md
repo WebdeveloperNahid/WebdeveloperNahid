@@ -5,7 +5,7 @@
 <h1>Hi, I'm Omar Faruk Nahid 👋</h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00B4DB&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+%7C+Next.js+%7C+TypeScript;Building+secure+%26+responsive+web+apps;Open+to+internship+and+entry-level+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00B4DB&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+%7C+Next.js+%7C+TypeScript;Building+secure+%26+responsive+web+apps;Open+to+full-time+developer+roles" alt="Typing SVG" />
 </a>
 
 <p>📍 Rajshahi, Bangladesh &nbsp;|&nbsp; 📧 omarfaruk.nahid.webdeveloper@gmail.com</p>
@@ -33,7 +33,7 @@ I'm a passionate **MERN Stack & Next.js Developer** dedicated to building respon
 - 🔐 Implementing secure authentication with **JWT**, **Better Auth** & **Google OAuth**
 - 🎨 Designing UIs with **Tailwind CSS**, **HeroUI** & **Framer Motion**
 - 🤖 Integrating AI features using the **Gemini API**
-- 💼 Looking for an internship / entry-level developer opportunity
+- 💼 Looking for a full-time developer opportunity
 
 ---
 
