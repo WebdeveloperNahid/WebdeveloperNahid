@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1128,50:0b3d91,100:00b4db&height=280&section=header&text=Omar%20Faruk%20Nahid&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=MERN%20Stack%20%26%20Next.js%20Developer&descAlignY=60&descSize=22&descColor=cfefff" alt="Banner" width="100%"/>
+<img src="https://github.com/user-attachments/assets/f6cace41-f994-4525-a935-a14f468226f0" alt="Omar Faruk Nahid - Full Stack Developer" width="100%"/>
 
 <h1>Hi, I'm Omar Faruk Nahid 👋</h1>
 
