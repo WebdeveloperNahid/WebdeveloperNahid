@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/f6cace41-f994-4525-a935-a14f468226f0" alt="Omar Faruk Nahid - Full Stack Developer" width="100%"/>
+<img src="https://github.com/user-attachments/assets/248061d6-fb74-4721-aa1d-6ec5f59857ac" alt="Omar Faruk Nahid - Full Stack Developer" width="100%"/>
+
 
 <h1>Hi, I'm Omar Faruk Nahid 👋</h1>
 
