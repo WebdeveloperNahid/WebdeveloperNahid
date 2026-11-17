@@ -103,7 +103,11 @@ I'm always open to discussing new projects, opportunities, or collaborations. Fe
 
 ### 🗣️ Languages
 
-🇧🇩 Bangla (Native) &nbsp;|&nbsp; 🇬🇧 English (Intermediate) &nbsp;|&nbsp; 🇮🇳 Hindi (Conversational)
+<p align="left">
+<img src="https://img.shields.io/badge/Bangla-Native-059669?style=for-the-badge&labelColor=064e3b" alt="Bangla - Native" />
+<img src="https://img.shields.io/badge/English-Intermediate-10b981?style=for-the-badge&labelColor=064e3b" alt="English - Intermediate" />
+<img src="https://img.shields.io/badge/Hindi-Conversational-34d399?style=for-the-badge&labelColor=064e3b" alt="Hindi - Conversational" />
+</p>
 
 <div align="center">
 <br/>
@@ -111,5 +115,5 @@ I'm always open to discussing new projects, opportunities, or collaborations. Fe
 <br/><br/>
 <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 🚀</i>
 <br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,50:0b3d91,100:0a1128&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,50:047857,100:10b981&height=100&section=footer" width="100%"/>
 </div>
